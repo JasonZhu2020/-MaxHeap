@@ -1,5 +1,3 @@
-import sun.dc.pr.PRError;
-
 import java.util.Random;
 
 public class MinHeap<E extends Comparable<E>> {
