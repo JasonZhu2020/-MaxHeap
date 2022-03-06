@@ -63,5 +63,6 @@ public class Main {
         System.out.println("Without heapify: " + time1 + "s");
         double time2 = testHeap(testData, true);
         System.out.println("With heapify: " + time2 + "s");
+        System.out.println(" ni shi zhu ");
     }
 }
